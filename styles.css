@@ -1,0 +1,31 @@
+body {
+    padding: 20px 20px;
+    font-family: 'Open Sans',Arial,sans-serif;
+}
+
+.cabecalho {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+}
+
+.orcamento {
+	color: ghostwhite ;
+    background-color: dimgrey;
+    margin-top: 0px;
+    text-align: center; 
+    font-size: 2em;
+    font-weight: bold;
+    border-radius: 15px;
+}
+
+.dados_cliente {
+    color: black ;
+    background-color: rgb(241, 186, 45);
+    margin-top: 1px;
+    text-align: center; 
+    font-size: 2em;
+    font-weight: bold;
+    border-radius: 15px;
+}
+
